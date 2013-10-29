@@ -1,0 +1,15 @@
+.nav a{color:#ecf0f1}
+.nav a:hover{color:#2C3E50}
+.nav .active{background:#ecf0f1;color:#2C3E50}
+
+.icon{background-color:#fff}
+.icon-settings{background-color:#203040}
+
+.heading{background-color:#ECF0F1;color:#203040}
+
+.intro .intro-cont-wrapper{border-color:#ECF0F1}
+
+.experience .item:before{background:#ecf0f1;-webkit-box-shadow:0 0 0 5px rgba(236,240,241,0.3);box-shadow:0 0 0 5px rgba(236,240,241,0.3)}
+.experience .item:hover:before{background:#2C3E50}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{background:#ecf0f1}
