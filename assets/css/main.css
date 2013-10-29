@@ -173,9 +173,9 @@ label.inp-error{overflow:hidden;display:none;width:0;height:0}
     .no-js .heading .prev-btn, .no-js .heading .next-btn{display:none}
     .heading .prev-btn{right:50px}
     .heading .next-btn{right:10px}
-
+/* intro-cont-wrapper: background and -pie-background: rgba(44,62,80,0.3) */
 .intro{position:relative;overflow:hidden;height:470px}
-    .intro .intro-cont-wrapper{position:relative;display:table;width:100%;height:460px;margin:0;background:rgba(44,62,80,0.3);-pie-background:rgba(44,62,80,0.3);border:5px solid #2C3E50;border-left:none;border-right:none;text-align:center}
+    .intro .intro-cont-wrapper{position:relative;display:table;width:100%;height:460px;margin:0;background:rgba(0,0,0,0);-pie-background:rgba(0,0,0,0);border:5px solid #2C3E50;border-left:none;border-right:none;text-align:center}
     .intro .intro-cont{display:table-row;height:100%}
     .intro .intro-cont-i{position:relative;display:table-cell;vertical-align:middle;padding:0;height:100%}
     .intro .btn{margin:0;background:#B9BFCA;background:rgba(236,240,241,0.3)}
